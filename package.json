@@ -1,4 +1,12 @@
-{
+
+{"name": "trabajo-practico3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node actividad2/server.js"
+  },
   "dependencies": {
     "express": "^5.2.1"
   }
